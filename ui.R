@@ -4,6 +4,7 @@
 #=======================================================================================================
 
 library(shiny)
+library(markdown)
 
 # Define UI for application that draws a histogram
 shinyUI(navbarPage(
