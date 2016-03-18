@@ -8,7 +8,7 @@ library(markdown)
 
 # Define UI for application that draws a histogram
 shinyUI(navbarPage(
-        title = "Car Options for you",
+        title = "Best Car for Your Trip",
         tabPanel("Car List",
                 sidebarLayout(
                         sidebarPanel(
